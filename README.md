@@ -5,7 +5,11 @@
 Welcome to my GitHub! I'm a passionate computer engineer working at **AI Marketplace GmbH**, leading the **Google Developers Group Paderborn**, and actively building AI-driven solutions. I love sharing knowledge through **YouTube (@jhanikhil19)**, where I post **live coding, tech insights, and updates about Germany**.
 
 ---
-
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@jhanikhil19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jhanikhil19)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/jhanikhil19)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?logo=twitter)](https://instagram.com/jhanikhil19)
+---
 ## 🚀 **What I'm Working On**
 - 📌 **Master's Thesis:** Using **GenAI** to build some systems.
 - 💻 **Live Coding & AI Projects:** Experimenting with **LLMs, Python, and cloud-based AI systems**.
@@ -44,9 +48,5 @@ Welcome to my GitHub! I'm a passionate computer engineer working at **AI Marketp
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhanikhil19&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/jhanikhil19?style=social)
-![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@jhanikhil19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourhandle)
+

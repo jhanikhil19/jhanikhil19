@@ -18,20 +18,60 @@ Welcome to my GitHub! I'm a passionate computer engineer working at **AI Marketp
 ---
 
 ## 💡 **Tech Stack & Tools**
-🔹 **Languages:** Python, JavaScript, R, SQL  
-🔹 **AI/ML:** GPT, Hugging Face, LangChain  
-🔹 **Cloud & DevOps:** Azure, AWS, Docker  
-🔹 **Databases:** PostgreSQL, MongoDB  
-🔹 **Web Dev:** React, Node.js, FastAPI  
-🔹 **Tools:** Git, Jupyter, VS Code, Streamlit  
+## 🔧 Tech Stack & Tools
+
+### 🔹 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+
+
+
+### 🤖 AI/ML & Prompting
+![GPT](https://img.shields.io/badge/GPT-OpenAI-1A56D3?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompting-Expert-FF9900?style=for-the-badge)
+
+### 🌐 Web and App Development
+
+
+
+
+### 📈 Marketing & CMS
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Circle](https://img.shields.io/badge/Circle-000000?style=for-the-badge&logo=circle&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0055FF?style=for-the-badge&logo=highlevel&logoColor=white)
+
+### 🎬 Video Editing & Content Creation
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![YouTube Studio](https://img.shields.io/badge/YouTube%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+### 🛠️ Productivity & Tools
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
 ## 🎯 **Goals for 2025**
-✔ **Write a great thesis & publish research**
-✔ **Grow my YouTube channel to 10K+ subscribers**
-✔ **Host regular live sessions & tech talks**
-✔ **Develop AI-driven solutions for businesses**
+✔ **Write a great thesis & publish research**//
+✔ **Grow my YouTube channel to 10K+ subscribers**//
+✔ **Host regular live sessions & tech talks**//
+✔ **Develop AI-driven solutions for businesses**//
 ✔ **Improve health & maintain fitness consistency**
 
 ---

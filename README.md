@@ -5,10 +5,11 @@
 Welcome to my GitHub! I'm a passionate computer engineer working at **AI Marketplace GmbH**, leading the **Google Developers Group Paderborn**, and actively building AI-driven solutions. I love sharing knowledge through **YouTube (@jhanikhil19)**, where I post **live coding, tech insights, and updates about Germany**.
 
 ---
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@jhanikhil19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jhanikhil19)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/jhanikhil19)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?logo=twitter)](https://instagram.com/jhanikhil19)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jhanikhil19)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhanikhil19)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jhanikhil19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhanikhil19)
+
 
 ---
 ## 🚀 **What I'm Working On**
@@ -70,10 +71,10 @@ Welcome to my GitHub! I'm a passionate computer engineer working at **AI Marketp
 ---
 
 ## 📢 **Let's Connect!**
-- 🎥 [YouTube](https://www.youtube.com/@jhanikhil19)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📝 [Personal Website](https://jhanikhil19.github.io) 
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@jhanikhil19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jhanikhil19)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/jhanikhil19)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?logo=twitter)](https://instagram.com/jhanikhil19) 
 
 ---
 

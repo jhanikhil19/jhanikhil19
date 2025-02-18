@@ -61,10 +61,10 @@ Welcome to my GitHub! I'm a passionate computer engineer working at **AI Marketp
 ---
 
 ## 🎯 **Goals for 2025**
-✔ **Write a great thesis & publish research**\\
-✔ **Grow my YouTube channel to 10K+ subscribers**\\
-✔ **Host regular live sessions & tech talks**\\
-✔ **Develop AI-driven solutions for businesses**\\
+✔ **Write a great thesis & publish research** \\
+✔ **Grow my YouTube channel to 10K+ subscribers** \\
+✔ **Host regular live sessions & tech talks** \\
+✔ **Develop AI-driven solutions for businesses** \\
 ✔ **Improve health & maintain fitness consistency**
 
 ---
